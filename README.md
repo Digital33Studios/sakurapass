@@ -42,7 +42,6 @@ No additional Data Files are required.
 <p align="center"><img src="./Screenshots/Screen_2025112101243.png"></p>
 <p align="center"><img src="./Screenshots/Screen_2025112101747.png"></p>
 <p align="center"><img src="./Screenshots/Screen_2025112111510.png"></p>
-<p align="center"><img src="./Screenshots/Screen_2025112111510.png"></p>
 <p align="center"><img src="./Screenshots/Screen_2025112111511.png"></p>
 <p align="center"><img src="./Screenshots/Screen_2025112111512.png"></p>
 <p align="center"><img src="./Screenshots/Screen_202511211157.png"></p>
